@@ -1,5 +1,5 @@
 # TurnedUp - Plataforma de Música.
-Trabajo integrador Programación-01 UdeSA/DigitalHouse
+Trabajo integrador Programación-01 UdeSA/DigitalHouse.
 
 //Español
 Este código, ejecutado en un navegador, retrata una plataforma para escuchar música. Al mismo tiempo, esta se encuentra desarrollada a través de Deezer API. Es así que, para que esta funcione se debe descargar y correr el código y luego requerir permiso en el siguiente link: https://cors-anywhere.herokuapp.com/https://api.deezer.com/chart.
